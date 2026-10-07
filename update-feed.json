@@ -1,0 +1,8 @@
+{
+  "app": "supermarket-pos",
+  "latest": "2.1.0",
+  "url": "https://github.com/enochessoun-ops/supermarket-pos-downloads/releases/latest",
+  "notes": "Training mode for new cashiers, a full User Guide (F1), an owner recovery code for forgotten passwords, signed updates, and safety fixes. Update every till on the same day.",
+  "payload": "{\"app\":\"supermarket-pos\",\"latest\":\"2.1.0\",\"url\":\"https://github.com/enochessoun-ops/supermarket-pos-downloads/releases/latest\",\"notes\":\"Training mode for new cashiers, a full User Guide (F1), an owner recovery code for forgotten passwords, signed updates, and safety fixes. Update every till on the same day.\",\"downloads\":{\"darwin-arm64\":{\"url\":\"https://github.com/enochessoun-ops/supermarket-pos-downloads/releases/download/v2.1.0/SuperMarket-POS-2.1.0-mac-apple-silicon.dmg\",\"sha256\":\"cfc90bbf2f94b08709b2efa4b8872eb72c2f6a79a125f50a9a3dee485163cc10\"},\"darwin-x64\":{\"url\":\"https://github.com/enochessoun-ops/supermarket-pos-downloads/releases/download/v2.1.0/SuperMarket-POS-2.1.0-mac-intel.dmg\",\"sha256\":\"a5c1ab4c3b4e6a198c5f35c2ac00a01b8f436c5a834e2dbc6cdee0f285fbd049\"},\"win32-x64\":{\"url\":\"https://github.com/enochessoun-ops/supermarket-pos-downloads/releases/download/v2.1.0/SuperMarket-POS-2.1.0-windows-setup.exe\",\"sha256\":\"5b87e7bdb912922630fa1202f526fc1197620a02d439e7b9cbaa786a75f60dc8\"}},\"publishedAt\":\"2026-10-07T01:08:37.072Z\"}",
+  "sig": "h/RwIHcnNWGeACflY/65SVCh/GUMFYdyftpsM6MaCpHq+VrbKxK6gZjZu9QUaW+oY3sAwfpJ+Dqtul2VXtWsBw=="
+}
