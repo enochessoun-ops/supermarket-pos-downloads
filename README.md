@@ -1,3 +1,5 @@
+<img src="logo.svg" alt="" width="96" height="96">
+
 # SuperMarket POS — downloads
 
 SuperMarket POS is a point-of-sale app for supermarkets and minimarts in Ghana: fast selling, stock, Mobile Money, customers on credit, GRA E-VAT, owner reports, training mode — on Windows and Mac, working offline.
@@ -22,4 +24,4 @@ https://raw.githubusercontent.com/enochessoun-ops/supermarket-pos-downloads/main
 
 This repository holds only installers, the update feed and documentation. The source code is not published.
 
-© 2026. All rights reserved.
+Published by MoRaj Supplies and Consult · [morajconsult.com](https://morajconsult.com) · © 2026. All rights reserved.
